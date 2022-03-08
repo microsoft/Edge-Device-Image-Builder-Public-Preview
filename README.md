@@ -1,33 +1,27 @@
-# Project
+# Edge Device Image Builder
+Welcome to the home of Edge Device Image Builder, an imaging solution for Windows IoT Enterprise device builders and OEMs to adopt, build, and bring-to-market secured and configured edge devices.
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+Try out our latest Public Preview Build Today: https://aka.ms/EDIBPublicPreviewRelease
 
-As the maintainer of this project, please make a few updates:
+## Getting Started
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+- [Get Started Now](https://aka.ms/EDIBInstructions)
+- [Learn More](https://aka.ms/EDIBDocumentation)
+- [Public Preview Blog](https://aka.ms/EDIBPublicPreviewBlog)
 
-## Contributing
+## Issues
+Issues can be filed in the [issues section](https://github.com/microsoft/Edge-Device-Image-Builder-Public-Preview/issues) of this GitHub.  
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+If you require additional assistance, we strongly suggest that you reach out to your [Windows IoT Distributor](https://aka.ms/IoTDistributorList) as they can help assist in providing necessary materials. 
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+## Feature requests
+Feature requests can be filed in our [GitHub Isssues](https://github.com/microsoft/Edge-Device-Image-Builder-Public-Preview/issues) page. 
 
+## Microsoft Open Source Code of Conduct
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-## Trademarks
+Resources:
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+- [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/)
+- [Microsoft Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/)
+- Contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with questions or concerns
